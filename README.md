@@ -1,4 +1,4 @@
-[ASL-2048](http://kilbyjmichael.github.io/ASL-2048/)
+[ASL-2048](http://kilbyjmichael.github.io/2048-ASL)
 ========
 
 ASL study version of 2048
